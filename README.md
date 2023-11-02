@@ -1,6 +1,9 @@
 # Discord Injection - Educational Purposes Only 👾
 - Pirate Stealer Injection Used
 
+# Todo
+-[Encrypt It w Rot or Ceaser]
+
 This project is intended for educational purposes only. It includes Discord injection scripts written in various programming languages for different platforms.
 
 ## Supported Languages 🚀
